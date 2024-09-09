@@ -6,6 +6,7 @@ The challenge involves deploying a Three-Tier Web Application using ReactJS, Nod
 ## Prerequisites
 - Basic knowledge of Docker, and AWS services.
 - An AWS account with necessary permissions.
+- Have a strong mentality
 
 ## Challenge Steps
 
